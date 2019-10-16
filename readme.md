@@ -27,4 +27,4 @@ Download these two programs:
 
 ## Hall of Fame
 * Miguel Nicolas https://github.com/miguelqnicolas
-*
+* Cristian Jocol https://github.com/CrisCrawford 
