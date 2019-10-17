@@ -14,7 +14,7 @@ Download these two programs:
 5. Type `git clone (link)` and paste your link (shift + insert on Windows or insert on Mac). Do not include the parenthesis.
 6. Type `exit` to close out of Git.
 7. Open the folder in Visual Studio Code by either dragging the folder onto the icon or opening the folder from Visual Studio Code's menu.
-8. Add your name and your GitHub handle to the hall of fame in the format that I have. Suggestions are welcome.
+8. Add your name and your GitHub handle to the winners section in the format that I have. Suggestions are welcome.
 9. Once you are done with your changes, save your work and close Visual Studio Code. Open Git again.
 10. You can check the status of your branch by typing `git status`. This will tell you what files were modified, added, or deleted.
 11. Type `git add .` to stage all files that were modified. You can select individual files by typing `git add (file names)`, but for now, use the former command. Do not include the parenthesis.
@@ -25,6 +25,6 @@ Download these two programs:
 16. Receive a cool shirt after doing four of these!
 17. Happy coding! If you have any questions, comment on the issue and I will try to get back to you. Also, try Googling your question and see if you can't find the answer on your own. :)
 
-## Hall of Fame
+## Winners
 * Miguel Nicolas https://github.com/miguelqnicolas
 * Cristian Jocol https://github.com/CrisCrawford 
