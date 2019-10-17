@@ -27,4 +27,5 @@ Download these two programs:
 
 ## Winners
 * Miguel Nicolas https://github.com/miguelqnicolas
-* Cristian Jocol https://github.com/CrisCrawford 
+* Cristian Jocol https://github.com/CrisCrawford
+* Nicholas Macedo https://github.com/NicholasMacedo
